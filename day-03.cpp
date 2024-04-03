@@ -6,5 +6,5 @@ int Solution::solve (vector<int> &A) {
       cnt++;
       }
   }
-  return min(cnt, n cnt);
+  return min(cnt, n-cnt);
 }
